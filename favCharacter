@@ -1,6 +1,6 @@
-if (favChar == "Peter Griffin"){
+if (favChar == "peter griffin"){
     print "You have chosen my favorite character too!";
 }else{
-    print "Peter Griffin better";
+    print "peter griffin is better";
 }
   
